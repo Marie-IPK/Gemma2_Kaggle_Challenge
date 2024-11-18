@@ -1,2 +1,3 @@
 # Gemma2_Kaggle_Challenge
-we have created an auto-encoder for MNIST images using pytorch. 
+We use this repository to share our code and our dataset for Gemma competion on Kaggle
+
